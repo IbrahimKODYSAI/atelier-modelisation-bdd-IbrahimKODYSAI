@@ -1,0 +1,119 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="580" height="327" view_box="0 0 580 327"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Tue, 30 Apr 2019 02:36:45</desc>
+
+<rect id="frame" x="0" y="0" width="580" height="327" fill="none" stroke="none" stroke-width="0"/>
+
+<!-- Association is tagged as -->
+<line x1="264" y1="98" x2="393" y2="98" stroke="#476062" stroke-width="1"/>
+<text x="320" y="115.0" fill="#2f494e" font-family="Verdana" font-size="12">0,1</text>
+<line x1="521" y1="98" x2="393" y2="98" stroke="#476062" stroke-width="1"/>
+<text x="444" y="115.0" fill="#2f494e" font-family="Verdana" font-size="12">0,N</text>
+<g id="association-is tagged as">
+	<path d="M 425 72 a 14 14 90 0 1 14 14 V 98 h -92 V 86 a 14 14 90 0 1 14 -14" fill="#9ebd6d" stroke="#9ebd6d" stroke-width="0"/>
+	<path d="M 439 98.0 v 12 a 14 14 90 0 1 -14 14 H 361 a 14 14 90 0 1 -14 -14 V 98.0 H 92" fill="#c3dbbb" stroke="#c3dbbb" stroke-width="0"/>
+	<rect x="347" y="72" width="92" height="52" fill="none" rx="14" stroke="#8ea243" stroke-width="1.5"/>
+	<line x1="347" y1="98" x2="439" y2="98" stroke="#8ea243" stroke-width="1"/>
+	<text x="354" y="90.6" fill="#3d484a" font-family="Trebuchet MS" font-size="14">is tagged as</text>
+</g>
+
+<!-- Association made -->
+<line x1="54" y1="98" x2="156" y2="98" stroke="#476062" stroke-width="1"/>
+<text x="104" y="115.0" fill="#2f494e" font-family="Verdana" font-size="12">1,N</text>
+<line x1="264" y1="98" x2="156" y2="98" stroke="#476062" stroke-width="1"/>
+<text x="187" y="115.0" fill="#2f494e" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-made">
+	<path d="M 167 72 a 14 14 90 0 1 14 14 V 98 h -50 V 86 a 14 14 90 0 1 14 -14" fill="#9ebd6d" stroke="#9ebd6d" stroke-width="0"/>
+	<path d="M 181 98.0 v 12 a 14 14 90 0 1 -14 14 H 145 a 14 14 90 0 1 -14 -14 V 98.0 H 50" fill="#c3dbbb" stroke="#c3dbbb" stroke-width="0"/>
+	<rect x="131" y="72" width="50" height="52" fill="none" rx="14" stroke="#8ea243" stroke-width="1.5"/>
+	<line x1="131" y1="98" x2="181" y2="98" stroke="#8ea243" stroke-width="1"/>
+	<text x="138" y="90.6" fill="#3d484a" font-family="Trebuchet MS" font-size="14">made</text>
+</g>
+
+<!-- Association is a -->
+<line x1="156" y1="265" x2="264" y2="265" stroke="#476062" stroke-width="1"/>
+<text x="206" y="282.0" fill="#2f494e" font-family="Verdana" font-size="12">0,N</text>
+<line x1="264" y1="98" x2="264" y2="265" stroke="#476062" stroke-width="1"/>
+<text x="269.0" y="204" fill="#2f494e" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-is a">
+	<path d="M 269 239 a 14 14 90 0 1 14 14 V 265 h -38 V 253 a 14 14 90 0 1 14 -14" fill="#9ebd6d" stroke="#9ebd6d" stroke-width="0"/>
+	<path d="M 283 265.0 v 12 a 14 14 90 0 1 -14 14 H 259 a 14 14 90 0 1 -14 -14 V 265.0 H 38" fill="#c3dbbb" stroke="#c3dbbb" stroke-width="0"/>
+	<rect x="245" y="239" width="38" height="52" fill="none" rx="14" stroke="#8ea243" stroke-width="1.5"/>
+	<line x1="245" y1="265" x2="283" y2="265" stroke="#8ea243" stroke-width="1"/>
+	<text x="252" y="257.6" fill="#3d484a" font-family="Trebuchet MS" font-size="14">is a</text>
+</g>
+
+<!-- Entity CATEGORY -->
+<g id="entity-CATEGORY">
+	<g id="frame-CATEGORY">
+		<rect x="471" y="27" width="100" height="26" fill="#7ecb9a" stroke="#7ecb9a" stroke-width="0"/>
+		<rect x="471" y="53.0" width="100" height="116" fill="#a6efb3" stroke="#a6efb3" stroke-width="0"/>
+		<rect x="471" y="27" width="100" height="142" fill="none" stroke="#387252" stroke-width="1.5"/>
+		<line x1="471" y1="53" x2="571" y2="53" stroke="#387252" stroke-width="1"/>
+	</g>
+	<text x="486" y="45.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">CATEGORY</text>
+	<text x="476" y="71.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">category title</text>
+	<line x1="476" y1="74.0" x2="565" y2="74.0" stroke="#1b5343" stroke-width="1"/>
+	<text x="476" y="89.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">subtitle</text>
+	<text x="476" y="107.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">picture</text>
+	<text x="476" y="125.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">home order</text>
+	<text x="476" y="143.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">created at</text>
+	<text x="476" y="161.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">updated at</text>
+</g>
+
+<!-- Entity BRAND -->
+<g id="entity-BRAND">
+	<g id="frame-BRAND">
+		<rect x="9" y="45" width="90" height="26" fill="#7ecb9a" stroke="#7ecb9a" stroke-width="0"/>
+		<rect x="9" y="71.0" width="90" height="80" fill="#a6efb3" stroke="#a6efb3" stroke-width="0"/>
+		<rect x="9" y="45" width="90" height="106" fill="none" stroke="#387252" stroke-width="1.5"/>
+		<line x1="9" y1="71" x2="99" y2="71" stroke="#387252" stroke-width="1"/>
+	</g>
+	<text x="32" y="63.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">BRAND</text>
+	<text x="14" y="89.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">brand name</text>
+	<line x1="14" y1="92.0" x2="92" y2="92.0" stroke="#1b5343" stroke-width="1"/>
+	<text x="14" y="107.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">footer order</text>
+	<text x="14" y="125.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">created at</text>
+	<text x="14" y="143.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">updated at</text>
+</g>
+
+<!-- Entity TYPE -->
+<g id="entity-TYPE">
+	<g id="frame-TYPE">
+		<rect x="111" y="212" width="90" height="26" fill="#7ecb9a" stroke="#7ecb9a" stroke-width="0"/>
+		<rect x="111" y="238.0" width="90" height="80" fill="#a6efb3" stroke="#a6efb3" stroke-width="0"/>
+		<rect x="111" y="212" width="90" height="106" fill="none" stroke="#387252" stroke-width="1.5"/>
+		<line x1="111" y1="238" x2="201" y2="238" stroke="#387252" stroke-width="1"/>
+	</g>
+	<text x="139" y="230.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">TYPE</text>
+	<text x="116" y="256.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">type name</text>
+	<line x1="116" y1="259.0" x2="185" y2="259.0" stroke="#1b5343" stroke-width="1"/>
+	<text x="116" y="274.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">footer order</text>
+	<text x="116" y="292.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">created at</text>
+	<text x="116" y="310.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">updated at</text>
+</g>
+
+<!-- Entity PRODUCT -->
+<g id="entity-PRODUCT">
+	<g id="frame-PRODUCT">
+		<rect x="213" y="9" width="102" height="26" fill="#7ecb9a" stroke="#7ecb9a" stroke-width="0"/>
+		<rect x="213" y="35.0" width="102" height="152" fill="#a6efb3" stroke="#a6efb3" stroke-width="0"/>
+		<rect x="213" y="9" width="102" height="178" fill="none" stroke="#387252" stroke-width="1.5"/>
+		<line x1="213" y1="35" x2="315" y2="35" stroke="#387252" stroke-width="1"/>
+	</g>
+	<text x="233" y="27.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">PRODUCT</text>
+	<text x="218" y="53.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">product name</text>
+	<line x1="218" y1="56.0" x2="309" y2="56.0" stroke="#1b5343" stroke-width="1"/>
+	<text x="218" y="71.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">description</text>
+	<text x="218" y="89.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">picture</text>
+	<text x="218" y="107.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">price</text>
+	<text x="218" y="125.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">rate</text>
+	<text x="218" y="143.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">status</text>
+	<text x="218" y="161.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">created at</text>
+	<text x="218" y="179.6" fill="#1b5343" font-family="Trebuchet MS" font-size="14">updated at</text>
+</g>
+</svg>
