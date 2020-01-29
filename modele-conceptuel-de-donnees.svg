@@ -1,0 +1,82 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="305" height="229" view_box="0 0 305 229"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Fri, 17 May 2019 01:00:46</desc>
+
+<rect id="frame" x="0" y="0" width="305" height="229" fill="#f7f7f7" stroke="none" stroke-width="0"/>
+
+<!-- Association Attacher -->
+<line x1="159" y1="60" x2="57" y2="60" stroke="#5aae61" stroke-width="2"/>
+<text x="95" y="77.0" fill="#762a83" font-family="Verdana" font-size="12">0,N</text>
+<line x1="57" y1="178" x2="57" y2="60" stroke="#5aae61" stroke-width="2"/>
+<text x="62.0" y="128" fill="#762a83" font-family="Verdana" font-size="12">0,N</text>
+<g id="association-Attacher">
+	<path d="M 76 35 a 14 14 90 0 1 14 14 V 60 h -66 V 49 a 14 14 90 0 1 14 -14" fill="#a6dba0" stroke="#a6dba0" stroke-width="0"/>
+	<path d="M 90 60.0 v 11 a 14 14 90 0 1 -14 14 H 38 a 14 14 90 0 1 -14 -14 V 60.0 H 66" fill="#d9f0d3" stroke="#d9f0d3" stroke-width="0"/>
+	<rect x="24" y="35" width="66" height="50" fill="none" rx="14" stroke="#5aae61" stroke-width="2"/>
+	<line x1="24" y1="60" x2="90" y2="60" stroke="#5aae61" stroke-width="1"/>
+	<text x="31" y="52.7" fill="#000000" font-family="Verdana" font-size="12">Attacher</text>
+</g>
+
+<!-- Association Assigner -->
+<line x1="261" y1="178" x2="261" y2="60" stroke="#5aae61" stroke-width="2"/>
+<text x="266.0" y="128" fill="#762a83" font-family="Verdana" font-size="12">0,N</text>
+<line x1="159" y1="60" x2="261" y2="60" stroke="#5aae61" stroke-width="2"/>
+<text x="201" y="77.0" fill="#762a83" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-Assigner">
+	<path d="M 280 35 a 14 14 90 0 1 14 14 V 60 h -66 V 49 a 14 14 90 0 1 14 -14" fill="#a6dba0" stroke="#a6dba0" stroke-width="0"/>
+	<path d="M 294 60.0 v 11 a 14 14 90 0 1 -14 14 H 242 a 14 14 90 0 1 -14 -14 V 60.0 H 66" fill="#d9f0d3" stroke="#d9f0d3" stroke-width="0"/>
+	<rect x="228" y="35" width="66" height="50" fill="none" rx="14" stroke="#5aae61" stroke-width="2"/>
+	<line x1="228" y1="60" x2="294" y2="60" stroke="#5aae61" stroke-width="1"/>
+	<text x="235" y="52.7" fill="#000000" font-family="Verdana" font-size="12">Assigner</text>
+</g>
+
+<!-- Entity Liste -->
+<g id="entity-Liste">
+	<g id="frame-Liste">
+		<rect x="226" y="136" width="70" height="25" fill="#c2a5cf" stroke="#c2a5cf" stroke-width="0"/>
+		<rect x="226" y="161.0" width="70" height="59" fill="#e7d4e8" stroke="#e7d4e8" stroke-width="0"/>
+		<rect x="226" y="136" width="70" height="84" fill="none" stroke="#9970ab" stroke-width="2"/>
+		<line x1="226" y1="161" x2="296" y2="161" stroke="#9970ab" stroke-width="1"/>
+	</g>
+	<text x="246" y="153.7" fill="#000000" font-family="Verdana" font-size="12">Liste</text>
+	<text x="231" y="178.8" fill="#000000" font-family="Verdana" font-size="12">CodeListe</text>
+	<line x1="231" y1="181" x2="290" y2="181" stroke="#000000" stroke-width="1"/>
+	<text x="231" y="195.8" fill="#000000" font-family="Verdana" font-size="12">Nom</text>
+	<text x="231" y="212.8" fill="#000000" font-family="Verdana" font-size="12">Ordre</text>
+</g>
+
+<!-- Entity Etiquette -->
+<g id="entity-Etiquette">
+	<g id="frame-Etiquette">
+		<rect x="9" y="136" width="96" height="25" fill="#c2a5cf" stroke="#c2a5cf" stroke-width="0"/>
+		<rect x="9" y="161.0" width="96" height="59" fill="#e7d4e8" stroke="#e7d4e8" stroke-width="0"/>
+		<rect x="9" y="136" width="96" height="84" fill="none" stroke="#9970ab" stroke-width="2"/>
+		<line x1="9" y1="161" x2="105" y2="161" stroke="#9970ab" stroke-width="1"/>
+	</g>
+	<text x="29" y="153.7" fill="#000000" font-family="Verdana" font-size="12">Etiquette</text>
+	<text x="14" y="178.8" fill="#000000" font-family="Verdana" font-size="12">CodeEtiquette</text>
+	<line x1="14" y1="181" x2="100" y2="181" stroke="#000000" stroke-width="1"/>
+	<text x="14" y="195.8" fill="#000000" font-family="Verdana" font-size="12">Nom</text>
+	<text x="14" y="212.8" fill="#000000" font-family="Verdana" font-size="12">Couleur</text>
+</g>
+
+<!-- Entity Carte -->
+<g id="entity-Carte">
+	<g id="frame-Carte">
+		<rect x="122" y="9" width="74" height="25" fill="#c2a5cf" stroke="#c2a5cf" stroke-width="0"/>
+		<rect x="122" y="34.0" width="74" height="77" fill="#e7d4e8" stroke="#e7d4e8" stroke-width="0"/>
+		<rect x="122" y="9" width="74" height="102" fill="none" stroke="#9970ab" stroke-width="2"/>
+		<line x1="122" y1="34" x2="196" y2="34" stroke="#9970ab" stroke-width="1"/>
+	</g>
+	<text x="142" y="26.7" fill="#000000" font-family="Verdana" font-size="12">Carte</text>
+	<text x="127" y="51.7" fill="#000000" font-family="Verdana" font-size="12">CodeCarte</text>
+	<line x1="127" y1="54" x2="191" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="127" y="68.8" fill="#000000" font-family="Verdana" font-size="12">Nom</text>
+	<text x="127" y="85.8" fill="#000000" font-family="Verdana" font-size="12">Ordre</text>
+	<text x="127" y="102.8" fill="#000000" font-family="Verdana" font-size="12">Couleur</text>
+</g>
+</svg>
