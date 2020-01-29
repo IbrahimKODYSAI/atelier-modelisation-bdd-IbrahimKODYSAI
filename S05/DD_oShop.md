@@ -1,4 +1,6 @@
-# Dictionnaire de données
+# Dictionnaire de données 
+ 
+Kody saneda Ibrahim
 
 ## Produits (`product`)
 
